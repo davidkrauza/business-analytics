@@ -12,7 +12,7 @@ The goal of this course is to develop an understanding of the process of analyzi
 1. SQL
 2. Microsoft Excel
 3. Google Sheets
-4. Python
+4. Python. 
 Finally, the students will gain practical experience analyzing real world datasets.
 
 ##Course Structure
@@ -20,6 +20,7 @@ Collaboration with others is very important on data analysis project. Students i
 1. [Google G Suite] (https://gsuite.google.com/)
 2. [Slack] (https://slack.com/)
 3. [Skype] (https://www.skype.com/en/)
+4. [Trello] (https://trello.com/) or [Asana] (https://asana.com/). 
 Students in their teams will be required to meeting fortnightly with the instructor online to review the progress and direction of the team project.
 
 ##Course Project

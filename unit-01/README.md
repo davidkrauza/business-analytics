@@ -20,6 +20,12 @@ After completeing the readings and reviewing the unit materials the student will
 * [Beyond Moneyball: How Big Data Is Changing Baseball] (http://www.sporttechie.com/2014/11/11/sports/mlb/beyond-moneyball-how-big-data-is-changing-baseball/)
 
 ##Discussion Topic
+Find an article that describes the application of data analytics or business intelligence at a private (non-governmental) organization. Write a post that does not exceed 150 words and:
+* Summarize what the organization did
+* What was the result for the organization?
+* How reproducible is the benefit (e.g. can other organization implement?)
+
+Please cite the source of the article.
 
 ##Assignment
 
