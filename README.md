@@ -43,7 +43,16 @@ Students will need to utilize the following tools in the course:
   * This will be used to share Excel, Python, and data files
   * Please keep in mind that a free account is open to the public, so do not load any senstive information to you account
 
-##Course Online
+##Course Outline
 Unit | Description | Learning Objectives
 --- | --- | ---
-1 | Introduction | In this unit we will provide a definition of analytics, provide examples of how ananalytics are used, and form our teams for the term 
+ 1 | Introduction | In this unit we will provide a definition of analytics, provide examples of how ananalytics are used, and form our teams for the term
+ 2 | Overview of data analytic tools | In this unit we'll review our toolkit for data analytics, including Excel, Python, Mode Analytics, and GitHub
+ 3 | Selecting datasets and data | This unit covers the principles of database management and querying databases using SQL. Students will also select the dataset they will use for the term
+ 4 | Data exploration | We will begin exploring datasets using descriptive statistics and data visualization tools
+ 5 | Designing data experiements | Using the dataset for the term project we will determine our Key Intelligence Questions, discuss the scientific method, and develop reproducible research
+ 6 | Principles of tidy data | In this unit we will focus on how to structure our datasets so that it is easy to manipulate, model, and visualize the data
+ 7 | Analytic techniques | We will review major analytic techniques such as clustering and regression analysis. We will also discuss how to determine which analytic techniques and models should be used to answer our intelligence question
+ 8 | Drawing conclusions from data | This unit will help us answer the question "What do the results from the analytic techniques tell us?"
+ 9 | Developing deliverables | Here we will develop effectice deliverables to communicate the "so what?" to our decision maker - which should help reduce uncertainty in their decision making process
+ 10 | Final Briefing | Brief the instructor on your term project  
