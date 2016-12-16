@@ -12,7 +12,7 @@ The goal of this course is to develop an understanding of the process of analyzi
 1. SQL
 2. Microsoft Excel
 3. Google Sheets
-4. Python. 
+4. Python.
 Finally, the students will gain practical experience analyzing real world datasets.
 
 ##Course Structure
@@ -20,11 +20,11 @@ Collaboration with others is very important on data analysis project. Students i
 1. [Google G Suite] (https://gsuite.google.com/)
 2. [Slack] (https://slack.com/)
 3. [Skype] (https://www.skype.com/en/)
-4. [Trello] (https://trello.com/) or [Asana] (https://asana.com/). 
+4. [Trello] (https://trello.com/) or [Asana] (https://asana.com/).
 Students in their teams will be required to meeting fortnightly with the instructor online to review the progress and direction of the team project.
 
 ##Course Project
-Using a real world dataset the student will work in teams to complete a data analytics project. This will include sourcing a real world dataset, determining the key intelligence questions to be answered, drawing conclusions from the data, preparing deliverables for decision maker, and briefing the decision maker. 
+Using a real world dataset the student will work in teams to complete a data analytics project. This will include sourcing a real world dataset, determining the key intelligence questions to be answered, drawing conclusions from the data, preparing deliverables for decision maker, and briefing the decision maker.
 
 ##Course Tools
 Students will need to utilize the following tools in the course:
@@ -50,10 +50,10 @@ Unit | Description | Learning Objectives
  1 | Introduction | In this unit we will provide a definition of analytics, provide examples of how ananalytics are used, and form our teams for the term
  2 | Overview of data analytic tools | In this unit we'll review our toolkit for data analytics, including Excel, Python, Mode Analytics, and GitHub
  3 | Selecting datasets and data | This unit covers the principles of database management and querying databases using SQL. Students will also select the dataset they will use for the term
- 4 | Data exploration | We will begin exploring datasets using descriptive statistics and data visualization tools
- 5 | Designing data experiements | Using the dataset for the term project we will determine our Key Intelligence Questions, discuss the scientific method, and develop reproducible research
- 6 | Principles of tidy data | In this unit we will focus on how to structure our datasets so that it is easy to manipulate, model, and visualize the data
- 7 | Analytic techniques | We will review major analytic techniques such as clustering and regression analysis. We will also discuss how to determine which analytic techniques and models should be used to answer our intelligence question
+ 4 | Principles of tidy data | In this unit we will focus on how to structure our datasets so that it is easy to manipulate, model, and visualize the data
+ 5 | Data exploration | We will begin exploring datasets using descriptive statistics and data visualization tools
+ 6 | Analytic techniques | We will review major analytic techniques such as clustering and regression analysis. We will also discuss how to determine which analytic techniques and models should be used to answer our intelligence question
+ 7 | Designing data experiments | Using the dataset for the term project we will determine our Key Intelligence Questions, discuss the scientific method, and develop reproducible research
  8 | Drawing conclusions from data | This unit will help us answer the question "What do the results from the analytic techniques tell us?"
- 9 | Developing deliverables | Here we will develop effectice deliverables to communicate the "so what?" to our decision maker - which should help reduce uncertainty in their decision making process
+ 9 | Developing deliverables | Here we will develop effective deliverables to communicate the "so what?" to our decision maker - which should help reduce uncertainty in their decision making process
  10 | Final Briefing | Brief the instructor on your term project  
