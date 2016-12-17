@@ -10,6 +10,8 @@ After completing the readings and reviewing the unit materials the student will 
   * **WHERE** Clause
   * **ORDER BY**
   * **GROUP BY**
+  * **COUNT**
+  * **SUM**
   * **JOIN** Statement
 
 ##Unit Materials
@@ -25,7 +27,17 @@ Write a post, not exceeding 150 words, the benefits and disadvantages of using a
 ##Assignment
 This portion of the assignment will be completed individually:
 * Using the account you created on [Mode Analytics] (https://modeanalytics.com/)
-  *
+  * To get started follow the example from the lecture video
+  * Use an sample dataset from Mode Analytics and write a SQL query demonstrating the use of:
+    1. SELECT
+    2. WHERE
+    3. GROUP BY
+    4. Aggregate Function
+       * SUM
+       * COUNT
+    5. ORDER BY
+  * Bonus if you can demonstrate the use of a **JOIN** statement
+  * *An Example of a SQL Query for a Mode Analytics dataset is provided*
 * Save your work to your github account
   * Save your SQL to a text file
   * Save a Word doc to you github describing what the results of query will tell a decision maker
