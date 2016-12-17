@@ -1,4 +1,5 @@
---SQL querying us_flights and flight_revenue dataset on Mode Analytics 
+--SQL querying us_flights and flight_revenue datasets on Mode Analytics
+--Access Mode Analytics goto https://modeanalytics.com to access the dataset and SQL editor
 select
   f.unique_carrier,
   f.dest,
