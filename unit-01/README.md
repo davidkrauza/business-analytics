@@ -1,10 +1,10 @@
 #Unit 1: Introduction
 
 ##Learning Objectives
-After completeing the readings and reviewing the unit materials the student will be able to:
+After completing the readings and reviewing the unit materials the student will be able to:
 * Describe the basics of data analytics and business intelligence
 * Understand why businesses use data analytics
-* Explain the benefits to businesses of leverging data analytics
+* Explain the benefits to businesses of leveraging data analytics
 * Begin to understand the tools at the disposal of the students to conduct analysis
 
 ##Unit Materials
@@ -29,4 +29,4 @@ Find an article that describes the application of data analytics or business int
 Please cite the source of the article.
 
 ##Assignment
-Hold an initial meeting with your teammates to begin to get to know each other. It is recommended that you schedule standing meetings to create and maintain a cadence of progress through out the term. 
+Hold an initial meeting with your teammates to begin to get to know each other. It is recommended that you schedule standing meetings to create and maintain a cadence of progress through out the term.

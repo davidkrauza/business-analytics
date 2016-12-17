@@ -22,7 +22,7 @@ After completing the readings and reviewing the unit materials the student will 
 * [Benefits of Using a Database] (http://work.chron.com/benefits-using-database-3792.html)
 
 ##Discussion Topic
-Write a post, not exceeding 150 words, describing how an analyst would use SQL and a database management system. 
+Write a post, not exceeding 150 words, describing how an analyst would use SQL and a database management system.
 
 Please cite any articles you reference in your post.
 
@@ -50,7 +50,8 @@ This portion of the assignment will be completed with your team:
 * Identify a dataset that you will use for the rest of term
   * Data will be shared publicly, avoid using proprietary or classified data
   * [Kaggle] (https://www.kaggle.com/) has a large repository of publicly available datasets
-  * [FiveThirtyEight] (https://github.com/fivethirtyeight/data) also maintains a large repository of data on GitHub
+  * [FiveThirtyEight] (https://github.com/fivethirtyeight/data) maintains a large repository of data on GitHub
+  * [OpenDataSoft] (https://www.opendatasoft.com/a-comprehensive-list-of-all-open-data-portals-around-the-world/?utm_source=general&utm_medium=social&utm_campaign=opendatainception) has a comprehensive list of open datasets around the world
 * Schedule a meeting with the instructor to review the dataset you wish to use  
 
 ##Reference Materials
