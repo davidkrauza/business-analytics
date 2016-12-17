@@ -48,7 +48,8 @@ This portion of the assignment will be completed with your team:
 * Identify a dataset that you will use for the rest of term
   * Data will be shared publicly, avoid using proprietary or classified data
   * [Kaggle] (https://www.kaggle.com/) has a large repository of publicly available datasets
-* Share the dataset your team will use with the instructor  
+  * [FiveThirtyEight] (https://github.com/fivethirtyeight/data) also maintains a large repository of data on GitHub
+* Schedule a meeting with the instructor to review the dataset you wish to use  
 
 ##Reference Materials
 * [SQL Tutorial for Data Analysts] (https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/)
