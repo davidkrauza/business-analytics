@@ -40,7 +40,9 @@ This portion of the assignment will be completed individually:
   * *An Example of a SQL Query for a Mode Analytics dataset is provided*
 * Save your work to your github account
   * Save your SQL to a text file
-  * Save a Word doc to you github describing what the results of query will tell a decision maker
+  * Write a description in a Word Doc describing what the results of the query would tell a decision maker
+    * *An Example of the description is provided*
+  * Commit the sql script and word doc file to your github account
 
 This portion of the assignment will be completed with your team:
 * Identify a dataset that you will use for the rest of term
