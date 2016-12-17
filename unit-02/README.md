@@ -27,6 +27,7 @@ Write a post, not exceeding 150 words, describing how data analysts use the tech
 Please cite the source of the article.
 
 ##Assignment
+This assignment will be completed individually.
 * Download and install install Anaconda notebook on your computer
 * Create and account on github.com
 * Download and install git on your computer
