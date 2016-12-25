@@ -22,9 +22,7 @@ After completing the readings and reviewing the unit materials the student will 
 * [Benefits of Using a Database] (http://work.chron.com/benefits-using-database-3792.html)
 
 ##Discussion Topic
-Write a post, not exceeding 150 words, describing how an analyst would use SQL and a database management system.
-
-Please cite any articles you reference in your post.
+No required discussion topic this week. However, please post questions or comments to the discussion board about the assignment for this week.
 
 ##Assignment
 This portion of the assignment will be completed individually:
