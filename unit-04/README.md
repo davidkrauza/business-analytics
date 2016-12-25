@@ -12,7 +12,7 @@ After completing the readings and reviewing the unit materials the student will 
 
 ###Readings
 * [Turning Messy Data into tidy data] (http://machinelearningmastery.com/data-cleaning-turn-messy-data-into-tidy-data/)
-* [Cleaning up data with spreadsheets] (Xhttp://schoolofdata.org/handbook/recipes/cleaning-data-with-spreadsheets/)
+* [Cleaning up data with spreadsheets] (http://schoolofdata.org/handbook/recipes/cleaning-data-with-spreadsheets/)
 
 ##Discussion Topic
 Write a post, not exceeding 150 words, describing the benefits of tidy data and the challenges an analyst faces cleaning up messy data.
