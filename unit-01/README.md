@@ -8,6 +8,10 @@ After completing the readings and reviewing the unit materials the student will 
 * Begin to understand the tools at the disposal of the students to conduct analysis
 
 ##Unit Materials
+
+###Lecture Slides
+* [Unit 01 - Introduction] (https://docs.google.com/presentation/d/1KfoPMu5WbiTzJeWlYAciqHlx1jW-im7bY2UJ4-IpDgw/edit?usp=sharing)
+ 
 ###Lecture Videos
 
 ###Readings
