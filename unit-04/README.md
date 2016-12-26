@@ -15,10 +15,17 @@ After completing the readings and reviewing the unit materials the student will 
 * [Cleaning up data with spreadsheets] (http://schoolofdata.org/handbook/recipes/cleaning-data-with-spreadsheets/)
 
 ##Discussion Topic
-Write a post, not exceeding 150 words, describing the benefits of tidy data and the challenges an analyst faces cleaning up messy data.
+Write a post, not exceeding 150 words, describing the benefits of tidy data and the challenges an analyst faces cleaning up messy data. Also, why would a decision maker be interested in tidy data?
 
 ##Assignment
+As a team look at the dataset you are using for the course. Answer the following:
+* Does this dataset adhere to the principles of tidy data?
+* If it does not adhere, why and what can be done to make it tidy?
+* If it does adhere, why does it adhere?
+* Create a written brief answering these questions. A sample written brief can be found [here] (https://docs.google.com/document/d/1-4MVphZnBOCPzgYAeLBi5UFNYOLta05bCPunSQpnsk4/edit?usp=sharing)
 
+* Save your dataset to you github account a share your dataset with the instructor.
+  * If your dataset is not already tidy, make it tidy before you share it on github.
 
 ##Reference Materials
 * [Tidy Data] (http://vita.had.co.nz/papers/tidy-data.pdf) by Hadley Wickham

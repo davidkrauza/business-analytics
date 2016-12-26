@@ -40,3 +40,4 @@ This assignment will be completed individually.
 * [Git Cheat Sheet] (https://education.github.com/git-cheat-sheet-education.pdf)
 * [Python Cheat Sheet] (https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PythonForDataScience.pdf)
 * [Python for Data Science Handbook] (https://github.com/jakevdp/PythonDataScienceHandbook)
+* [Jupyter (IPython) notebooks features] (https://arogozhnikov.github.io/2016/09/10/jupyter-features.html)

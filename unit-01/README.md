@@ -11,7 +11,7 @@ After completing the readings and reviewing the unit materials the student will 
 
 ###Lecture Slides
 * [Unit 01 - Introduction] (https://docs.google.com/presentation/d/1KfoPMu5WbiTzJeWlYAciqHlx1jW-im7bY2UJ4-IpDgw/edit?usp=sharing)
- 
+
 ###Lecture Videos
 
 ###Readings
@@ -28,7 +28,7 @@ After completing the readings and reviewing the unit materials the student will 
 Find an article that describes the application of data analytics or business intelligence at a private (non-governmental) organization. Write a post that does not exceed 150 words and:
 * Summarize what the organization did
 * What was the result for the organization?
-* How reproducible is the benefit (e.g. can other organization implement?)
+* How reproducible is the benefit? (e.g. can other organization implement?)
 
 Please cite the source of the article.
 
