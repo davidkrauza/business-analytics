@@ -14,6 +14,10 @@ After completing the readings and reviewing the unit materials the student will 
 * Log into Mode Analytics
 
 ##Unit Materials
+
+###Lecture Slides
+* [Unit 02 - Business Analytic Tools] (https://docs.google.com/presentation/d/1SGOeJent24JNuDxn5RuQRXK81shfn1sxbMxsymnNkD0/edit?usp=sharing)
+
 ###Lecture Videos
 
 ###Readings
