@@ -1,0 +1,5 @@
+This is the first line of the text file
+This is the second line of the text file
+This is the third line of the text file
+This is the fourth line of the text file
+I hope that you enjoy Business Analytics!
