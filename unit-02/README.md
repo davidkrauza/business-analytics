@@ -19,6 +19,7 @@ After completing the readings and reviewing the unit materials the student will 
 * [Unit 02 - Business Analytic Tools] (https://docs.google.com/presentation/d/1SGOeJent24JNuDxn5RuQRXK81shfn1sxbMxsymnNkD0/edit?usp=sharing)
 
 ###Lecture Videos
+No lecture videos for this unit. Please follow the slide deck and the tutorials in the assignment section.
 
 ###Readings
 * [An Introduction to Data Science with Python] (https://www.springboard.com/blog/data-science-with-python/)
