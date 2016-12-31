@@ -32,13 +32,28 @@ Please cite the source of the article.
 
 ##Assignment
 This assignment will be completed individually.
-* Download and install install Anaconda notebook on your computer
 * Create and account on github.com
-* Download and install git on your computer
-  * Create an initial repo with a README.md file
-    * The content of the file is irrelevant, so long as you have created the file
+* [Download] (https://git-scm.com/downloads) and install git on your local machine
+* Work through the follow tutorials on [gitimersion] (http://gitimmersion.com/)
+  * [Lab 01 - Setup] (http://gitimmersion.com/lab_01.html)
+  * [Lab 03 - Create a project] (http://gitimmersion.com/lab_03.html)
+  * [Lab 04 - Checking status] (http://gitimmersion.com/lab_04.html)
+  * [Lab 05 - Making changes] (http://gitimmersion.com/lab_05.html)
+  * [Lab 06 - Staging changes] (http://gitimmersion.com/lab_06.html)
+  * [Lab 07 - Staging and committing] (http://gitimmersion.com/lab_07.html)
+  * [Lab 08 - Committing changes] (http://gitimmersion.com/lab_08.html)
+  * [Lab 37 - Cloning] (http://gitimmersion.com/lab_37.html)
+  * [Lab 47 - Adding a remote repository] (http://gitimmersion.com/lab_47.html)
+  * [Lab 48 - Pushing a change] (http://gitimmersion.com/lab_48.html)
+  * Clone the class repo to your github account
+  * Create a new repo on your local machine
+    * Add and commit a README.md file to the repo
+  * Create a new repo on github to push the local repo to
     * Push the README.md file to your github.com account
   * Share a link to the github repo with the instructor
+* Download and install install Anaconda notebook on your computer
+  * Open the lab 1 files you cloned from git hub
+  * Work through the lab 1 notebook
 
 ##Reference Materials
 * [Git Cheat Sheet] (https://education.github.com/git-cheat-sheet-education.pdf)
