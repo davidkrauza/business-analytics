@@ -50,6 +50,7 @@ This portion of the assignment will be completed with your team:
   * [Kaggle] (https://www.kaggle.com/) has a large repository of publicly available datasets
   * [FiveThirtyEight] (https://github.com/fivethirtyeight/data) maintains a large repository of data on GitHub
   * [OpenDataSoft] (https://www.opendatasoft.com/a-comprehensive-list-of-all-open-data-portals-around-the-world/?utm_source=general&utm_medium=social&utm_campaign=opendatainception) has a comprehensive list of open datasets around the world
+  * [Reddit] (https://www.reddit.com/r/datasets/) has a list growing list of datasets 
 * Schedule a meeting with the instructor to review the dataset you wish to use  
 
 ##Reference Materials
