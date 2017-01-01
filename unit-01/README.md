@@ -13,6 +13,7 @@ After completing the readings and reviewing the unit materials the student will 
 * [Unit 01 - Introduction] (https://docs.google.com/presentation/d/1KfoPMu5WbiTzJeWlYAciqHlx1jW-im7bY2UJ4-IpDgw/edit?usp=sharing)
 
 ###Lecture Videos
+* Unit 01 Video
 
 ###Readings
 ####Required
