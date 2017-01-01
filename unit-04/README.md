@@ -8,6 +8,9 @@ After completing the readings and reviewing the unit materials the student will 
 * Use techniques and tools to cleanup messy data
 
 ##Unit Materials
+###Lecture Slides
+* [Unit 04 - tidy data] (https://docs.google.com/presentation/d/1JeA_eBGSHWJn6Udnv7Hh8xcwQRaJVfuqcVehtShoLo4/edit?usp=sharing)
+
 ###Lecture Videos
 
 ###Readings
