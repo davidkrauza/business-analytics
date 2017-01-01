@@ -50,7 +50,7 @@ Unit | Description | Learning Objectives
  1 | Introduction | In this unit we will provide a definition of analytics, provide examples of how ananalytics are used, and form our teams for the term
  2 | Overview of data analytic tools | In this unit we'll review our toolkit for data analytics, including Excel, Python, Mode Analytics, and GitHub
  3 | Selecting datasets and data | This unit covers the principles of database management and querying databases using SQL. Students will also select the dataset they will use for the term
- 4 | Principles of tidy data | In this unit we will focus on how to structure our datasets so that it is easy to manipulate, model, and visualize the data
+ 4 | Principles of tidy data | In this unit we will focus on how to prepared and structure our datasets so that it is easy to manipulate, model, and visualize the data
  5 | Data exploration | We will begin exploring datasets using descriptive statistics and data visualization tools
  6 | Analytic techniques | We will review major analytic techniques such as clustering and regression analysis. We will also discuss how to determine which analytic techniques and models should be used to answer our intelligence question
  7 | Designing data experiments | Using the dataset for the term project we will determine our Key Intelligence Questions, discuss the scientific method, and develop reproducible research
