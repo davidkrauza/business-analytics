@@ -7,11 +7,12 @@ After completing the readings and reviewing the unit materials the student will 
 
 ##Unit Materials
 ###Lecture Slides
-* [Unit 05 - Data Exploration]
+* [Unit 05 - Data Exploration] (https://docs.google.com/presentation/d/1ASCCO1l0pk_ECRjG_qmOElU4StTsl8DE4fQYQkqfyVM/edit?usp=sharing)
 
 ###Lecture Videos
 
 ###Readings
+* [Descriptive Statistics] (http://www.socialresearchmethods.net/kb/statdesc.php)
 
 
 ##Discussion Topic
@@ -33,3 +34,4 @@ As a team look at the dataset you are using for the course:
 ##Reference Materials
 * [Statistics intro: Mean, median, & mode] (https://www.khanacademy.org/math/probability/data-distributions-a1/summarizing-center-distributions/v/statistics-intro-mean-median-and-mode)
 * [Measures of spread: range, variance & standard deviation] (https://www.khanacademy.org/math/probability/data-distributions-a1/summarizing-spread-distributions/v/range-variance-and-standard-deviation-as-measures-of-dispersion)
+* [Descriptive statistics for Python Pandas] (http://chrisalbon.com/python/pandas_dataframe_descriptive_stats.html)
