@@ -1,1 +1,8 @@
+#iPython generated files
 .ipynb_checkpoints
+
+#Compiled python files
+*.pyc
+
+#OS Generated files
+.DS_Store
