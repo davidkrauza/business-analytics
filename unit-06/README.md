@@ -43,4 +43,5 @@ As a team look at the dataset you are using for the course:
 * [An Introduction to Regression Analysis] (http://www.law.uchicago.edu/files/files/20.Sykes_.Regression.pdf)
 * [A Quick and Dirty Guide to networkx] (http://www.slideshare.net/arnicas/a-quick-and-dirty-intro-to-networkx-and-d3)
 * [Graph Analysis with Python and networkx] (http://www.slideshare.net/BenjaminBengfort/social-network-analysis-with-python)
+* [Networkx and Gelphi Tutorial] (http://www.slideshare.net/giladlotan/pydata-gilad-networkxupload)
 * [Extreme Moneyball] (https://www.bloomberg.com/news/articles/2014-08-28/extreme-moneyball-houston-astros-jeff-luhnow-lets-data-reign)
