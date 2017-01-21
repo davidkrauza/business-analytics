@@ -5,7 +5,7 @@ Data analytics is the process of generating and delivering information that enab
 2. Data Exploration
 3. Cleaning Data
 4. Predictive Analytics
-5. Developing Data Driven Delveriables
+5. Developing Data Driven Deliverables
 
 ##Goal
 The goal of this course is to develop an understanding of the process of analyzing data using key techniques and technology. This course will focus on the principles of data management, data exploration, data visualizations, drawing inferences from data, and developing effective means of communicating inferences to decision makers. Students will use industry standard tools such as:
@@ -14,6 +14,8 @@ The goal of this course is to develop an understanding of the process of analyzi
 3. Google Sheets
 4. Python.
 Finally, the students will gain practical experience analyzing real world datasets.
+
+**Note**: *As you work your way through this course, I don't take a deep dive into any one topic. My goal in this course is to provide base knowledge. As you find practical applications for each topic covered you are encouraged to expand your knowledge.*
 
 ##Course Structure
 Collaboration with others is very important on data analysis project. Students in this course will form teams of 2 or 3 and will complete all assignments in their teams. The students will leverage online collaboration tools such as:
