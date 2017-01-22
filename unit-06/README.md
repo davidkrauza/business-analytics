@@ -7,13 +7,13 @@ After completing the readings and reviewing the unit materials the student will 
   * Cluster analysis
   * Community Detection (network analysis)
   * Linear regression analysis
-* Leverage the Python *scikit-learn* machine learning library for analytic techniques
+* Leverage the Python *scikit-learn* machine learning library for k-means and linear regression analysis
 * Leverage the Python *networkx* library for cluster analysis
 
 ##Unit Materials
 
 ###Lecture Slides
-* [Unit 06 - Analytic Techniques] ()
+* [Unit 06 - Analytic Techniques] (https://docs.google.com/presentation/d/1-JXmR24FCMF3qx0jHs88VaORwbXZj88zNDTCLAajYps/edit?usp=sharing)
 
 ###Lecture Videos
 
@@ -44,6 +44,6 @@ As a team look at the dataset you are using for the course:
 * [A Quick and Dirty Guide to networkx] (http://www.slideshare.net/arnicas/a-quick-and-dirty-intro-to-networkx-and-d3)
 * [Graph Analysis with Python and networkx] (http://www.slideshare.net/BenjaminBengfort/social-network-analysis-with-python)
 * [Networkx and Gelphi Tutorial] (http://www.slideshare.net/giladlotan/pydata-gilad-networkxupload)
-* [Extreme Moneyball] (https://www.bloomberg.com/news/articles/2014-08-28/extreme-moneyball-houston-astros-jeff-luhnow-lets-data-reign) 
+* [Extreme Moneyball] (https://www.bloomberg.com/news/articles/2014-08-28/extreme-moneyball-houston-astros-jeff-luhnow-lets-data-reign)
 * [scikit-learn API Documentation] (http://scikit-learn.org/stable/)
 * [networkx API Documentation] (https://networkx.github.io/)
