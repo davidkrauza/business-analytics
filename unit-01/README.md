@@ -21,6 +21,7 @@ After completing the readings and reviewing the unit materials the student will 
 * [What Wal-Mart Knows About Customer Habits] (http://nyti.ms/1Ld8n4X)
 * [How Companies Learn Your Secrets] (http://www.nytimes.com/2012/02/19/magazine/shopping-habits.html)
 * [How Predictive Analytics Helps Cox Communications Tune in to Customers] (http://images.forbes.com/forbesinsights/StudyPDFs/SAP-CoxCommunications-Report.pdf)
+* [Predictive Analytics 101] (http://data36.com/predictive-analytics-101-part-1/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=revue)
 
 ####Optional
 * [Beyond Moneyball: How Big Data Is Changing Baseball] (http://www.sporttechie.com/2014/11/11/sports/mlb/beyond-moneyball-how-big-data-is-changing-baseball/)
