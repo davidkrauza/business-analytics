@@ -1,5 +1,5 @@
 #iPython generated files
-.ipynb_checkpoints
+*.ipynb_checkpoints
 
 #Compiled python files
 *.pyc
